@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: September 01, 2024
+Last updated: March 19, 2026
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -82,8 +82,18 @@ Personally identifiable information may include, but is not limited to:
 
   * Address, State, Province, ZIP/Postal code, City
 
-  * Usage Data
+  * Usage Data: Automatically collected info (IP address, device ID, etc.).
 
+  * Email address: Required to facilitate order history, gift card delivery, and user support.
+
+Cryptocurrency & Financial Data
+*******************************
+
+ShopSwiftly provides a platform for mobile recharge and gift card purchases using cryptocurrency.
+
+  * Non-Custodial Service: We do not create user wallets, nor do we hold custody of user funds or private keys.
+
+  * Payment Processing: All payments are processed via MixPay, a third-party payment gateway. We do not store your credit card or crypto wallet credentials.
 
 Usage Data  
 **********
@@ -126,7 +136,7 @@ Use of Your Personal Data
 The Company may use Personal Data for the following purposes:
 
   * To provide and maintain our Service , including to monitor the usage of
-    our Service.
+    our Service, Your order history and gift card details.
 
   * To manage Your Account: to manage Your registration as a user of the
     Service. The Personal Data You provide can give You access to different
@@ -226,17 +236,9 @@ Delete Your Personal Data
 You have the right to delete or request that We assist in deleting the
 Personal Data that We have collected about You.
 
-Our Service may give You the ability to delete certain information about You
-from within the Service.
-
-You may update, amend, or delete Your information at any time by signing in to
-Your Account, if you have one, and visiting the account settings section that
-allows you to manage Your personal information. You may also contact Us to
-request access to, correct, or delete any personal information that You have
-provided to Us.
-
-Please note, however, that We may need to retain certain information when we
-have a legal obligation or lawful basis to do so.
+Manual Request: Contact us at developer@shop-swiftly.in
+Upon request, we will delete all personal data unless we are legally required to retain specific transaction records for tax or anti-money laundering purposes.
+Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
 
 Disclosure of Your Personal Data  
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -247,6 +249,10 @@ Business Transactions
 If the Company is involved in a merger, acquisition or asset sale, Your
 Personal Data may be transferred. We will provide notice before Your Personal
 Data is transferred and becomes subject to a different Privacy Policy.
+
+Service Providers
+*****************
+We share necessary transaction info with MixPay to facilitate payments and with mobile operators to fulfill recharges.
 
 Law enforcement  
 ***************
@@ -290,6 +296,14 @@ If We need to rely on consent as a legal basis for processing Your information
 and Your country requires consent from a parent, We may require Your parent's
 consent before We collect and use that information.
 
+Grievance Redressal
+*******************
+In accordance with the Information Technology Act and the DPDP Act, if you have any grievances, you may contact our Grievance Officer:
+
+    Name: Vinay Singh Kharayat
+
+    Email: developer@shop-swiftly.in
+
 Links to Other Websites  
 -----------------------
 
@@ -320,5 +334,5 @@ Contact Us
 
 If you have any questions about this Privacy Policy, You can contact us:
 
-  * By email: vinaykharayat@gmail.com
+  * By email: developer@shop-swiftly.in
 
