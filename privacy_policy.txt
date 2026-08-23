@@ -1,62 +1,146 @@
-Privacy Policy  
+Privacy Policy
 ==============
 
 Last updated: August 23, 2026
 
-This Privacy Policy describes Our policies and procedures on the collection,
-use and disclosure of Your information when You use the Service and tells You
-about Your privacy rights and how the law protects You.
+This Privacy Policy describes how SoarTech, a sole proprietorship registered
+in Uttarakhand, India (Udyam Registration Number UDYAM-UK-09-0010880), which
+operates the ShopSwiftly service ("We", "Us", "Our"), collects, uses, shares
+and protects Your information when You use the ShopSwiftly mobile application,
+website and related services (together, the "Service"), and explains Your
+rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the
-Service, You agree to the collection and use of information in accordance with
-this Privacy Policy. This Privacy Policy has been created with the help of the
-[Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-
-generator/).
+We act as the "Data Fiduciary" under India's Digital Personal Data Protection
+Act, 2023 for the personal data described here. Our full identity and address
+are set out under "Definitions" below and under "Grievance Redressal".
 
-Interpretation and Definitions  
+By using the Service, You agree to the collection and use of information in
+accordance with this Privacy Policy.
+
+
+Where the Service is Available
 ------------------------------
 
-Interpretation  
+The Service is offered to, and intended only for, users located in India. Our
+price comparison covers Indian marketplaces, prices are shown in Indian
+Rupees, and mobile recharge is available only for Indian mobile networks. We
+do not offer or market the Service to users in any other country.
+
+This Privacy Policy, and Your use of the Service, are governed by the laws of
+India, and the courts at Pithoragarh, Uttarakhand shall have jurisdiction. If
+You choose to access the Service from outside India, You do so on Your own
+initiative and are responsible for complying with local law; We do not
+undertake that the Service or this Policy satisfies the data protection law of
+any country other than India.
+
+
+At a Glance
+-----------
+
+A short, non-binding summary. The detailed sections below govern.
+
+  * What ShopSwiftly does: We search multiple marketplaces and pharmacies at
+    once and show You a price comparison. We also sell gift cards and mobile
+    recharges, paid for with cryptocurrency.
+
+  * You can use price comparison without an account. An account (email) is
+    only required for gift cards, mobile recharge, order history and price
+    alerts.
+
+  * We collect: Your search terms, the product links You open, approximate
+    location (to get local prices), device and usage data, and — if You create
+    an account — Your email, name, and the phone numbers You recharge.
+
+  * We show ads (Google AdMob in the app, Google AdSense on the web) and use
+    Google Analytics for Firebase to understand how the app is used. A paid
+    subscription removes ads.
+
+  * We do not sell Your personal data, and We do not hold Your crypto funds,
+    private keys or card details.
+
+  * You can delete Your account from inside the app (Settings > Delete
+    Account) or by emailing us. Some financial records are retained as
+    required by law.
+
+
+Interpretation and Definitions
+------------------------------
+
+Interpretation
 ~~~~~~~~~~~~~~
 
 The words of which the initial letter is capitalized have meanings defined
 under the following conditions. The following definitions shall have the same
 meaning regardless of whether they appear in singular or in plural.
 
-Definitions  
+Definitions
 ~~~~~~~~~~~
 
 For the purposes of this Privacy Policy:
 
   * Account means a unique account created for You to access our Service or
-    parts of our Service.
+    parts of our Service. On ShopSwiftly an Account is identified by Your
+    email address.
+
+  * Advertising Identifier means a resettable identifier assigned by Your
+    operating system for advertising purposes (the Google Advertising ID on
+    Android, the Identifier for Advertisers (IDFA) on iOS).
 
   * Affiliate means an entity that controls, is controlled by or is under
     common control with a party, where "control" means ownership of 50% or
     more of the shares, equity interest or other securities entitled to vote
-    for election of directors or other managing authority.
+    for election of directors or other managing authority. (Where We refer to
+    affiliate marketing or referral programmes, We say so expressly — see
+    "Affiliate Links and Commissions".)
 
   * Application refers to ShopSwiftly, the software program provided by the
-    Company.
+    Company for Android, iOS, Web, Windows, macOS and Linux.
 
   * Company (referred to as either "the Company", "We", "Us" or "Our" in this
-    Agreement) refers to ShopSwiftly.
+    Agreement) refers to SoarTech, a sole proprietorship of Vinay Singh
+    Kharayat, registered as a Micro enterprise under the Micro, Small and
+    Medium Enterprises Development Act, 2006. ShopSwiftly is a unit and brand
+    of SoarTech.
 
-  * Country refers to: Uttarakhand, India
+        Legal name:  SoarTech (Proprietor: Vinay Singh Kharayat)
+        Unit/brand:  ShopSwiftly: Compare E-Marts
+        Udyam Registration Number: UDYAM-UK-09-0010880
+        Registered and principal place of business:
+            H. No. 126, SoarTech,
+            Hanuman Mandir Road, Kumoar,
+            Pithoragarh, District Pithoragarh,
+            Uttarakhand 262501, India
+        Email: developer@shop-swiftly.in
+        Website: https://shop-swiftly.in
+
+    We operate from this single address; We have no branch offices.
+
+  * Cookies are small files placed on Your device or browser by a website,
+    containing details of Your browsing activity.
+
+  * Country refers to: India. Our operations are based in the State of
+    Uttarakhand, India.
 
   * Device means any device that can access the Service such as a computer, a
     cellphone or a digital tablet.
 
+  * Marketplace means a third-party online store, quick-commerce service or
+    pharmacy whose publicly listed prices We compare — for example Blinkit,
+    Swiggy Instamart, Zepto, BigBasket, Amazon, Flipkart, JioMart, DMart,
+    Pharmeasy, Netmeds and Tata 1mg. Marketplaces are not owned by or
+    affiliated with Us.
+
   * Personal Data is any information that relates to an identified or
     identifiable individual.
 
-  * Service refers to the Application.
+  * Service refers to the Application and Our website.
 
   * Service Provider means any natural or legal person who processes the data
     on behalf of the Company. It refers to third-party companies or
     individuals employed by the Company to facilitate the Service, to provide
     the Service on behalf of the Company, to perform services related to the
-    Service or to assist the Company in analyzing how the Service is used.
+    Service or to assist the Company in analyzing how the Service is used. A
+    named list appears under "Service Providers We Use".
 
   * Usage Data refers to data collected automatically, either generated by the
     use of the Service or from the Service infrastructure itself (for example,
@@ -64,38 +148,140 @@ For the purposes of this Privacy Policy:
 
   * You means the individual accessing or using the Service, or the company,
     or other legal entity on behalf of which such individual is accessing or
-    using the Service, as applicable.
+    using the Service, as applicable. Under the Digital Personal Data
+    Protection Act, 2023 You are the "Data Principal".
 
 
-Collecting and Using Your Personal Data  
+Collecting and Using Your Personal Data
 ---------------------------------------
 
-Types of Data Collected  
+Types of Data Collected
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Personal Data  
+Personal Data
 *************
 
 While using Our Service, We may ask You to provide Us with certain personally
 identifiable information that can be used to contact or identify You.
 Personally identifiable information may include, but is not limited to:
 
-  * Address, State, Province, ZIP/Postal code, City
+  * Email address. Required to create an Account, to sign in with a one-time
+    password (OTP), to deliver gift card codes and recharge confirmations, to
+    keep Your order history, to send price-alert notifications and to provide
+    support.
 
-  * Usage Data: Automatically collected info (IP address, device ID, etc.).
+  * First name and last name. Optional; used on orders and to address
+    communications to You. If You sign in with Apple, Apple provides Your name
+    only on the first sign-in, and only if You allow it.
 
-  * Email address: Required to facilitate order history, gift card delivery, and user support.
+  * Mobile phone number. Collected only when You purchase a mobile recharge —
+    it is the number to be recharged, and it may be Your own or someone
+    else's. Numbers You choose to save for reuse are stored on Your device;
+    the number for a placed order is stored with that order on Our servers.
 
-Cryptocurrency & Financial Data
-*******************************
+  * Language and country preference associated with Your Account.
 
-ShopSwiftly provides a platform for mobile recharge and gift card purchases using cryptocurrency.
+  * Location information: latitude and longitude, PIN code, and a
+    human-readable place name (see "Information Collected while Using the
+    Application" below).
 
-  * Non-Custodial Service: We do not create user wallets, nor do we hold custody of user funds or private keys.
+  * Support correspondence: the contents of emails You send Us, and any reason
+    You optionally give when deleting Your Account.
 
-  * Payment Processing: All payments are processed via MixPay, a third-party payment gateway. We do not store your credit card or crypto wallet credentials.
+Search, Comparison and Click Activity
+*************************************
 
-Usage Data  
+  * Search terms You type or dictate in the Service, including grocery,
+    medicine and gift card searches, and Your recent-search list.
+
+  * Which Marketplaces You have enabled, which comparison You viewed, and
+    feedback You submit about incorrect product grouping.
+
+  * Which product links You open, which Marketplace they pointed to, and the
+    search term that produced them. For these click events We record the
+    Marketplace, the destination URL, the search term and the IP address of
+    the request. We use this to build the "trending searches" and "most
+    visited stores" lists shown in the app, to detect abuse, and to reconcile
+    affiliate commissions (see "Affiliate Links and Commissions").
+
+  * Items You add to Your comparison cart or gift card cart.
+
+Voice Input
+***********
+
+The Service offers voice search. When You tap the microphone icon:
+
+  * Your device records audio only while the microphone indicator is active,
+    and stops when You stop speaking or close the search field.
+
+  * The audio is converted to text by the speech recognition service built
+    into Your operating system (Apple Speech Recognition on iOS/macOS, the
+    Android speech recognition service on Android, the browser's speech API on
+    the web). Depending on Your device settings, that provider may process the
+    audio on their servers under their own privacy policy.
+
+  * We receive only the resulting text, which We then treat as a normal search
+    term. We do not store, transmit or retain the audio recording.
+
+  * You may deny or revoke microphone permission at any time in Your device
+    settings; the rest of the Service continues to work.
+
+Advertising and Analytics Identifiers
+*************************************
+
+Unless You have an ad-free subscription, the Service uses advertising and
+analytics services that rely on device identifiers, including:
+
+  * Your Advertising Identifier (Google Advertising ID / IDFA).
+
+  * A Firebase Installation ID, generated by Google Firebase to identify Your
+    app installation (not You personally) for analytics, in-app messaging and
+    push delivery.
+
+  * A Firebase Cloud Messaging (FCM) registration token for Your device, so We
+    can send You push notifications.
+
+  * A device identifier associated with any price alerts You create, so the
+    right device is notified.
+
+  * Cookies and similar web storage on the web version (see "Cookies and Local
+    Storage").
+
+Cryptocurrency and Financial Data
+*********************************
+
+ShopSwiftly provides a platform for mobile recharge and gift card purchases
+paid for with cryptocurrency.
+
+  * Non-Custodial Service: We do not create user wallets, nor do We hold
+    custody of user funds or private keys.
+
+  * Payment Processing: Payments are processed by third-party payment
+    gateways, currently MixPay (and, where offered, Binance Pay). You are
+    taken to the gateway's own hosted payment page. We do not receive or store
+    Your card number, wallet credentials, seed phrase or private keys.
+
+  * What We do store about a payment: the order reference, the payment method
+    and currency, the expected and paid amounts, the gateway's payment link,
+    the on-chain transaction hash where the gateway supplies one, and the
+    payment status. A transaction hash is public blockchain data and may be
+    linkable to Your wallet by anyone; please consider this before paying.
+
+  * Gift card fulfilment data: for a completed order We store the issued gift
+    card details needed to deliver and support it — which can include the card
+    code or ePIN, voucher ID, redemption URL, expiry date, redemption
+    instructions and provider confirmation number. This is sensitive; treat
+    Your order history like You would a wallet.
+
+  * The payment page may ask for camera access (for example to scan a QR code
+    to pay). That request comes from the payment provider inside a secure web
+    view. We do not receive, view or store any image or video from Your
+    camera.
+
+  * We do not perform Know Your Customer (KYC) checks ourselves; the payment
+    gateway may do so under its own policy.
+
+Usage Data
 **********
 
 Usage Data is collected automatically when using the Service.
@@ -111,32 +297,206 @@ mobile device You use, Your mobile device unique ID, the IP address of Your
 mobile device, Your mobile operating system, the type of mobile Internet
 browser You use, unique device identifiers and other diagnostic data.
 
+For each signed-in session We store Your email, a session token, the IP
+address and the browser/app user agent that created the session, and when it
+was created and last used. We use this to keep You signed in, to let You see
+and revoke sessions, and to detect suspicious access.
+
 We may also collect information that Your browser sends whenever You visit our
 Service or when You access the Service by or through a mobile device.
 
-Information Collected while Using the Application  
+Information Collected while Using the Application
 *************************************************
 
 While using Our Application, in order to provide features of Our Application,
 We may collect, with Your prior permission:
 
-  * Information regarding your location
+  * Location — precise location (GPS) or, if You prefer, a PIN code or place
+    name You enter manually.
 
-We use this information to provide features of Our Service, to improve and
-customize Our Service. The information may be uploaded to the Company's
-servers and/or a Service Provider's server or it may be simply stored on Your
-device.
+  * Microphone and speech recognition — for voice search only (see "Voice
+    Input").
 
-You can enable or disable access to this information at any time, through Your
-Device settings.
+  * Notifications — permission to display push notifications.
 
-Use of Your Personal Data  
+  * Camera — only if the payment provider's hosted checkout page requests it
+    during payment (see above).
+
+How We use Your location: Marketplace prices, availability and delivery
+eligibility in India are local. We use Your latitude and longitude, or Your
+PIN code, to determine the serviceable store for each Marketplace and to
+request prices for that store. To do this We:
+
+  * Send Your coordinates or PIN code to Google Maps Platform (Places and
+    Geocoding APIs), through Our own server, to convert between coordinates,
+    PIN codes and place names, and to power location autocomplete.
+
+  * Send Your coordinates, PIN code and/or the resolved store identifier to
+    the relevant Marketplace's public search interface, together with Your
+    search term, so it can return prices for Your area. For some Marketplaces
+    this request is made by Our servers on Your behalf; for others it is made
+    directly from Your device, in which case that Marketplace also receives
+    Your IP address and device network information.
+
+  * Store Your latitude, longitude, PIN code, place name and the resolved
+    store identifiers on Your device so You do not have to set Your location
+    on every visit.
+
+  * Store Your latitude, longitude and PIN code on Our servers as part of any
+    price alert You create, because We need them to re-check the price for
+    Your area.
+
+You can enable or disable access to location, microphone, camera and
+notifications at any time through Your Device settings. If You decline
+location, You can still use the Service by entering a PIN code manually.
+
+Data Stored Only on Your Device
+*******************************
+
+Some information never leaves Your Device unless You act on it. This includes:
+Your Marketplace and pharmacy on/off preferences, Your recent searches (up to
+three), saved recharge numbers, Your chosen location, Your avatar style, Your
+remaining free-search count, Your sign-in session token, and a temporary cache
+of Marketplace search responses (kept for about one hour to make repeated
+searches faster and to reduce load on Marketplaces). Uninstalling the app, or
+clearing the app's storage, removes this data.
+
+
+Advertising
+-----------
+
+Unless You have purchased an ad-free subscription, the Service displays
+advertising:
+
+  * In the mobile and desktop apps, through Google AdMob (banner, interstitial
+    and rewarded ads). Rewarded ads let You earn additional free searches.
+
+  * On our website, through Google AdSense.
+
+Google acts as an independent advertising provider. Google and its advertising
+partners may collect and use Your Advertising Identifier, IP address, device
+and browser information, approximate location derived from Your IP address,
+and information about ads You see and interact with, in order to serve and
+measure ads — including personalized ads where permitted. Google's use of this
+information is governed by Google's own privacy policy
+(https://policies.google.com/privacy) and by "How Google uses information from
+sites or apps that use our services"
+(https://policies.google.com/technologies/partner-sites).
+
+Your choices:
+
+  * Remove ads entirely by purchasing the ad-free subscription in the app.
+
+  * On Android: Settings > Google > Ads, where You can opt out of ads
+    personalization or delete Your Advertising ID.
+
+  * On iOS: Settings > Privacy & Security > Tracking, where You can refuse app
+    tracking requests; and Settings > Privacy & Security > Apple Advertising.
+
+  * On the web: opt out of personalized Google advertising at
+    https://adssettings.google.com, and manage cookies in Your browser.
+
+We do not knowingly permit interest-based or behavioural advertising to be
+directed at children (see "Children's Privacy").
+
+Our website includes a script that detects whether an ad blocker is active and
+asks You to consider disabling it. This check runs in Your browser and is not
+used to identify You.
+
+
+Analytics and Product Measurement
+---------------------------------
+
+We use Google Analytics for Firebase and Firebase In-App Messaging to
+understand how the Service is used and to show relevant in-app messages.
+Automatic data collection for these services is enabled on mobile devices.
+
+Events We log include: screens viewed; searches performed (including the
+search term and whether it was typed or dictated); comparisons and comparison
+tables viewed; product-grouping feedback; cart views and add-to-cart actions
+(including product and Marketplace names); product links opened; settings and
+FAQ views; gift card searches, views, cart additions, checkouts and successful
+purchases (including card names and item counts); mobile recharge screen
+views, carrier selections, packs viewed, checkouts started and successful
+recharges (including the amount and carrier); and notifications opened.
+
+We also set coarse properties about Your installation: whether You are
+subscribed, a search-activity tier ("new", "active", "power"), Your platform,
+and whether You have ever used recharge or gift cards. These are used to group
+users for statistics and in-app messaging, not to make decisions about You
+individually.
+
+We do not send Your email address, name, phone number or payment details to
+Firebase Analytics.
+
+
+Push Notifications
+------------------
+
+If You allow notifications, We register Your device's FCM token against Your
+Account (with the platform and environment) so We can send:
+
+  * Transactional messages — order status, gift card delivery, recharge
+    results.
+
+  * Price-drop alerts You have asked for.
+
+  * Promotional messages, only if You have opted in.
+
+You can control price-drop and promotional notifications in the app's
+notification preferences, and You can turn off all notifications in Your
+device settings. Transactional messages may still be sent by email where
+necessary to complete an order.
+
+
+Price Alerts
+------------
+
+If You create a price alert, We store: Your email address, a device identifier
+for the device to notify, the product identifier and name, the Marketplace,
+the price You want to be alerted at, the check frequency, and Your latitude,
+longitude, PIN code and store identifiers (needed to re-check the price for
+Your area). We record each price check We perform for that alert, so We can
+show You price history and avoid duplicate notifications.
+
+Alerts expire automatically (by default three days after creation, or when
+triggered), and are deleted when You delete Your Account.
+
+
+Legal Bases for Processing
+--------------------------
+
+Where the law requires Us to identify a legal basis, We rely on:
+
+  * Your consent — location access, microphone access, notifications,
+    promotional messages, price alerts, and non-essential advertising and
+    analytics. You may withdraw consent at any time (see "Your Rights"). Under
+    the Digital Personal Data Protection Act, 2023 We provide notice of the
+    purposes for which consent is sought before collecting the data.
+
+  * Performance of a contract — creating and maintaining Your Account,
+    processing and fulfilling gift card and recharge orders, delivering codes,
+    and providing support.
+
+  * Legitimate interests / legitimate uses — keeping the Service secure and
+    available, preventing fraud and abuse, aggregate statistics such as
+    trending searches, and reconciling affiliate commissions.
+
+  * Legal obligation — retaining transaction records for tax, accounting,
+    anti-money-laundering and law-enforcement purposes.
+
+Withdrawing consent does not affect processing carried out before the
+withdrawal, and may mean some features stop working.
+
+
+Use of Your Personal Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Company may use Personal Data for the following purposes:
 
-  * To provide and maintain our Service , including to monitor the usage of
-    our Service, Your order history and gift card details.
+  * To provide and maintain our Service, including to compare prices for Your
+    area, to monitor the usage of our Service, and to maintain Your order
+    history and gift card details.
 
   * To manage Your Account: to manage Your registration as a user of the
     Service. The Personal Data You provide can give You access to different
@@ -147,19 +507,31 @@ The Company may use Personal Data for the following purposes:
     undertaking of the purchase contract for the products, items or services
     You have purchased or of any other contract with Us through the Service.
 
-  * To contact You: To contact You by email, telephone calls, SMS, or other
-    equivalent forms of electronic communication, such as a mobile
-    application's push notifications regarding updates or informative
-    communications related to the functionalities, products or contracted
-    services, including the security updates, when necessary or reasonable for
-    their implementation.
+  * To fulfil orders: to send the phone number, carrier and product selection
+    needed to complete a mobile recharge or issue a gift card to Our
+    fulfilment provider, and to deliver the resulting code or confirmation to
+    You.
+
+  * To contact You: by email, telephone calls, SMS, or other equivalent forms
+    of electronic communication, such as push notifications, regarding updates
+    or informative communications related to the functionalities, products or
+    contracted services, including security updates, when necessary or
+    reasonable for their implementation.
 
   * To provide You with news, special offers and general information about
-    other goods, services and events which we offer that are similar to those
-    that you have already purchased or enquired about unless You have opted
-    not to receive such information.
+    other goods, services and events which We offer, where You have not opted
+    out or, where required, have opted in.
 
-  * To manage Your requests: To attend and manage Your requests to Us.
+  * To show and measure advertising, and to provide the ad-free subscription.
+
+  * To produce aggregate statistics, such as trending searches and most-
+    visited stores, which are shown to all users in a form that does not
+    identify You.
+
+  * To keep the Service secure: to detect, prevent and investigate fraud,
+    scraping abuse, tampering and unauthorized access.
+
+  * To manage Your requests: to attend and manage Your requests to Us.
 
   * For business transfers: We may use Your information to evaluate or conduct
     a merger, divestiture, restructuring, reorganization, dissolution, or
@@ -168,50 +540,151 @@ The Company may use Personal Data for the following purposes:
     which Personal Data held by Us about our Service users is among the assets
     transferred.
 
-  * For other purposes : We may use Your information for other purposes, such
-    as data analysis, identifying usage trends, determining the effectiveness
-    of our promotional campaigns and to evaluate and improve our Service,
-    products, services, marketing and your experience.
+  * To comply with law: to meet tax, accounting and other legal obligations
+    and to respond to lawful requests.
 
 
 We may share Your personal information in the following situations:
 
   * With Service Providers: We may share Your personal information with
-    Service Providers to monitor and analyze the use of our Service, to
-    contact You.
+    Service Providers to operate, secure, analyze and improve the Service, to
+    fulfil orders, to process payments, and to contact You. See "Service
+    Providers We Use".
+
+  * With Marketplaces: Your search term and Your approximate location or store
+    identifier are sent to the Marketplaces You have enabled so they can
+    return prices. When You open a product link, You are taken to that
+    Marketplace's own site or app.
+
+  * With payment and fulfilment providers: the information necessary to take
+    payment and to issue Your gift card or recharge.
+
   * For business transfers: We may share or transfer Your personal information
     in connection with, or during negotiations of, any merger, sale of Company
     assets, financing, or acquisition of all or a portion of Our business to
     another company.
+
   * With Affiliates: We may share Your information with Our affiliates, in
-    which case we will require those affiliates to honor this Privacy Policy.
+    which case We will require those affiliates to honor this Privacy Policy.
     Affiliates include Our parent company and any other subsidiaries, joint
     venture partners or other companies that We control or that are under
     common control with Us.
-  * With business partners: We may share Your information with Our business
-    partners to offer You certain products, services or promotions.
-  * With other users: when You share personal information or otherwise
-    interact in the public areas with other users, such information may be
-    viewed by all users and may be publicly distributed outside.
-  * With Your consent : We may disclose Your personal information for any
-    other purpose with Your consent.
 
-Retention of Your Personal Data  
+  * With Your consent: We may disclose Your personal information for any other
+    purpose with Your consent.
+
+We do not sell Your personal data, and We do not share it with third parties
+for their own independent marketing, other than the advertising described
+under "Advertising".
+
+The Service has no public profiles, reviews, forums or other public areas, so
+Your personal information is not published to other users.
+
+
+Service Providers We Use
+------------------------
+
+The categories and providers below reflect Our current arrangements and may
+change; We will update this list when it does.
+
+  * Google LLC / Google India — Firebase (Cloud Messaging, In-App Messaging,
+    Installations), Google Analytics for Firebase, Google AdMob, Google
+    AdSense, Google Maps Platform (Places and Geocoding), Google Sign-In,
+    Android speech recognition, and Google Play Billing for subscriptions.
+
+  * Apple Inc. — Sign in with Apple, Apple speech recognition, and App Store
+    in-app purchases for subscriptions.
+
+  * MixPay — cryptocurrency payment gateway (hosted checkout, payment status).
+
+  * Binance Pay — cryptocurrency payment option, where offered.
+
+  * Zendit — gift card and mobile recharge fulfilment. Receives the offer
+    selected and, for a recharge, the phone number and carrier.
+
+  * Mobile network operators in India (for example Airtel, Jio, Vi) — receive
+    the number being recharged, via Our fulfilment provider.
+
+  * Gift card brands and their distributors — receive the information needed
+    to issue and support a card.
+
+  * Zoho Corporation (Zoho Mail) — email delivery over SMTP, used to send
+    one-time passwords, order confirmations, gift card codes and price
+    alerts from our price-alerts@shop-swiftly.in and orders@shop-swiftly.in
+    addresses.
+
+  * Hosting infrastructure — Our backend application, database and cache run
+    on servers We rent from a third-party hosting provider. Personal data is
+    held in Our own database on that infrastructure, not in a third-party
+    application.
+
+  * Bright Data and ScrapingAnt — commercial proxy and web-data
+    infrastructure used by Our servers to fetch publicly listed Marketplace
+    prices reliably. These providers relay Our own server requests. They do
+    not receive Your email address, phone number or payment information.
+
+  * Shorebird — delivers over-the-air updates to the app's code. It receives
+    Your app version, platform and patch status in order to determine whether
+    an update applies. Provider policy: https://shorebird.dev/privacy/
+
+  * Amazon Associates and other affiliate and referral networks (see
+    "Affiliate Links and Commissions").
+
+Each provider is permitted to use the data only to provide their service to
+Us, except where they act as an independent controller in their own right (as
+Google does for advertising, and as payment gateways do for payments), in
+which case their own privacy policy also applies.
+
+
+Retention of Your Personal Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The Company will retain Your Personal Data only for as long as is necessary
 for the purposes set out in this Privacy Policy. We will retain and use Your
 Personal Data to the extent necessary to comply with our legal obligations
-(for example, if we are required to retain your data to comply with applicable
+(for example, if We are required to retain Your data to comply with applicable
 laws), resolve disputes, and enforce our legal agreements and policies.
+
+Indicative retention periods:
+
+  * Marketplace price cache on Your device — about 1 hour.
+
+  * Recent searches on Your device — the last 3 searches, until You clear
+    them.
+
+  * One-time passwords (OTPs) — until used or expired, then deleted.
+
+  * Sign-in sessions — until they expire, You sign out, or You delete Your
+    Account.
+
+  * Price alerts and their price-check history — until the alert is triggered
+    or expires (3 days by default), or You delete Your Account.
+
+  * Carts — until checkout, or cleared as part of housekeeping.
+
+  * Search and click logs used for aggregate statistics and affiliate
+    reconciliation — retained in identifiable form (including IP address) only
+    as long as needed for those purposes and for security investigations.
+
+  * Orders that expired without payment — hard-deleted 90 days after expiry.
+
+  * Completed orders, payments, issued gift cards and recharge transactions —
+    retained for as long as required by tax, accounting and anti-money-
+    laundering law, and to support disputes and chargebacks.
+
+  * Account deletion audit records (email, reason, IP address, user agent and
+    counts of what was deleted) — retained as a permanent record that a
+    deletion request was made and honoured.
 
 The Company will also retain Usage Data for internal analysis purposes. Usage
 Data is generally retained for a shorter period of time, except when this data
 is used to strengthen the security or to improve the functionality of Our
 Service, or We are legally obligated to retain this data for longer time
-periods.
+periods. Data held in Google Analytics for Firebase is retained according to
+the retention setting configured in that service.
 
-Transfer of Your Personal Data  
+
+Transfer of Your Personal Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your information, including Personal Data, is processed at the Company's
@@ -220,6 +693,14 @@ processing are located. It means that this information may be transferred to —
 and maintained on — computers located outside of Your state, province, country
 or other governmental jurisdiction where the data protection laws may differ
 than those from Your jurisdiction.
+
+In practice, Our Service Providers — including Google, Apple, Our payment
+gateways, Our fulfilment provider and Our hosting providers — operate
+infrastructure outside India, including in the United States, Europe and other
+Asia-Pacific regions. Transfers are made in accordance with the Digital
+Personal Data Protection Act, 2023, which permits transfer of personal data
+outside India except to countries restricted by the Central Government. We do
+not transfer personal data to any country subject to such a restriction.
 
 Your consent to this Privacy Policy followed by Your submission of such
 information represents Your agreement to that transfer.
@@ -230,20 +711,109 @@ of Your Personal Data will take place to an organization or a country unless
 there are adequate controls in place including the security of Your data and
 other personal information.
 
-Delete Your Personal Data  
+
+Your Rights
+-----------
+
+Subject to applicable law and to verification of Your identity, You have the
+right to:
+
+  * Access — obtain a summary of the personal data We hold about You and how
+    it is processed, and the identities of the Service Providers with whom it
+    has been shared.
+
+  * Correction and completion — have inaccurate or incomplete data corrected,
+    completed or updated. You can edit Your name, language and country in the
+    app.
+
+  * Erasure — ask Us to delete Your personal data (see "Delete Your Personal
+    Data").
+
+  * Withdraw consent — withdraw a consent You previously gave, as easily as
+    You gave it: revoke location, microphone, camera or notification
+    permission in Your device settings; turn off promotional notifications in
+    the app; delete a price alert; reset or delete Your Advertising
+    Identifier; or purchase the ad-free subscription.
+
+  * Opt out of marketing — tell Us to stop sending You promotional messages at
+    any time, without affecting transactional messages about Your orders.
+
+  * Grievance redressal — a readily available means of registering a grievance
+    with Us (see "Grievance Redressal").
+
+  * Nomination — under the Digital Personal Data Protection Act, 2023,
+    nominate another individual to exercise Your rights in the event of Your
+    death or incapacity. Contact Us to record a nomination.
+
+  * Complain to a regulator — if You are not satisfied with Our response, You
+    may complain to the Data Protection Board of India.
+
+To exercise any right, email grievance@shop-swiftly.in from the email address
+associated with Your Account. We will respond within the periods required by
+law, and in any event without undue delay. There is no charge for exercising
+Your rights, though We may decline manifestly unfounded or excessive requests
+and will explain why.
+
+You are responsible for the accuracy of the data You give Us, and for not
+impersonating anyone else or filing a false or frivolous grievance.
+
+We do not use Your personal data for automated decision-making that produces
+legal effects concerning You. Advertising personalization by Google is
+described under "Advertising".
+
+
+Delete Your Personal Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 You have the right to delete or request that We assist in deleting the
 Personal Data that We have collected about You.
 
-Manual Request: Contact us at developer@shop-swiftly.in
-Upon request, we will delete all personal data unless we are legally required to retain specific transaction records for tax or anti-money laundering purposes.
-Please note, however, that We may need to retain certain information when we have a legal obligation or lawful basis to do so.
+  * In the app: open Settings > Delete Account. You may optionally tell Us
+    why. Deletion cannot proceed while You have an order that is awaiting
+    payment or being fulfilled — please wait for it to complete or expire,
+    then try again.
 
-Disclosure of Your Personal Data  
+  * By email: write to grievance@shop-swiftly.in from Your Account email
+    address.
+
+What is deleted:
+
+  * All sign-in sessions (You are signed out everywhere) and stored session
+    records.
+
+  * One-time password records.
+
+  * Your carts and cart items.
+
+  * Your price alerts and their price-check history.
+
+  * Your registered device tokens, so You stop receiving push notifications.
+
+What is retained, and why:
+
+  * Orders, payments, issued gift cards and recharge transactions, together
+    with the email address that placed them. These are financial records We
+    are required to keep for tax, accounting, anti-money-laundering and
+    law-enforcement purposes, including so that authorities can trace which
+    account purchased a particular gift card.
+
+  * An account-deletion audit record (Your email, the reason You gave, the IP
+    address and user agent of the request, and counts of what was deleted), as
+    evidence that Your request was received and honoured.
+
+  * Aggregate and de-identified statistics that no longer identify You.
+
+Data stored only on Your Device is removed when You uninstall the app or clear
+its storage.
+
+Please note that We may need to retain certain information where We have a
+legal obligation or other lawful basis to do so.
+
+
+Disclosure of Your Personal Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Business Transactions  
+Business Transactions
 *********************
 
 If the Company is involved in a merger, acquisition or asset sale, Your
@@ -252,16 +822,20 @@ Data is transferred and becomes subject to a different Privacy Policy.
 
 Service Providers
 *****************
-We share necessary transaction info with MixPay to facilitate payments and with mobile operators to fulfill recharges.
 
-Law enforcement  
+We share the information necessary to run the Service with the providers
+listed under "Service Providers We Use" — for example, transaction information
+with Our payment gateway, and the phone number and carrier with Our fulfilment
+provider and the mobile operator, in order to complete a recharge.
+
+Law enforcement
 ***************
 
 Under certain circumstances, the Company may be required to disclose Your
 Personal Data if required to do so by law or in response to valid requests by
 public authorities (e.g. a court or a government agency).
 
-Other legal requirements  
+Other legal requirements
 ************************
 
 The Company may disclose Your Personal Data in the good faith belief that such
@@ -273,36 +847,126 @@ action is necessary to:
   * Protect the personal safety of Users of the Service or the public
   * Protect against legal liability
 
-Security of Your Personal Data  
+
+Security of Your Personal Data
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The security of Your Personal Data is important to Us, but remember that no
-method of transmission over the Internet, or method of electronic storage is
-100% secure. While We strive to use commercially acceptable means to protect
-Your Personal Data, We cannot guarantee its absolute security.
+The security of Your Personal Data is important to Us. We take reasonable
+technical and organisational measures to protect it, including:
 
-Children's Privacy  
+  * Encrypting traffic between the Service and Our servers in transit
+    (HTTPS/TLS).
+
+  * Sign-in by one-time password or provider single sign-on, so We never
+    handle a ShopSwiftly password. OTPs are short-lived and single-use.
+
+  * Session tokens that expire, can be revoked, and are invalidated on
+    sign-out or account deletion.
+
+  * Access controls limiting which personnel and systems can reach personal
+    data, and logging of administrative access.
+
+  * Keeping payment credentials out of Our systems entirely by using hosted
+    third-party checkout.
+
+  * Restricting gift card codes and PINs to the account that purchased them.
+
+However, remember that no method of transmission over the Internet, or method
+of electronic storage, is 100% secure. While We strive to use commercially
+acceptable means to protect Your Personal Data, We cannot guarantee its
+absolute security.
+
+Please keep Your email account secure, since access to it allows sign-in to
+Your ShopSwiftly Account, and treat gift card codes as You would cash.
+
+
+Personal Data Breach
+--------------------
+
+If We become aware of a personal data breach affecting Your personal data, We
+will notify the Data Protection Board of India and every affected user, in the
+form and within the time required by the Digital Personal Data Protection Act,
+2023 and the rules made under it. Notices to You will describe, as far as We
+know it, what happened, what data was involved, what We are doing about it,
+and what You can do to protect Yourself.
+
+
+Children's Privacy
 ------------------
 
-Our Service does not address anyone under the age of 13. We do not knowingly
-collect personally identifiable information from anyone under the age of 13.
-If You are a parent or guardian and You are aware that Your child has provided
-Us with Personal Data, please contact Us. If We become aware that We have
-collected Personal Data from anyone under the age of 13 without verification
-of parental consent, We take steps to remove that information from Our
-servers.
+The Service is not directed at children.
+
+  * The Service is intended only for users aged 18 or above. Under the Digital
+    Personal Data Protection Act, 2023, a "child" is a person who has not
+    completed 18 years of age. We do not knowingly collect the personal data
+    of a child, or of a person with a disability who has a lawful guardian,
+    without verifiable consent from the parent or lawful guardian.
+
+  * We do not knowingly undertake tracking, behavioural monitoring or targeted
+    advertising directed at children.
+
+  * Purchases, cryptocurrency payments and gift card redemption are available
+    only to users who can lawfully enter into a contract.
+
+If You are a parent or guardian and You believe Your child has provided Us
+with Personal Data, please contact Us at grievance@shop-swiftly.in and We will
+delete it and close the account. If We become aware that We have collected
+Personal Data from a child without the required consent, We take steps to
+remove that information from Our servers.
 
 If We need to rely on consent as a legal basis for processing Your information
 and Your country requires consent from a parent, We may require Your parent's
 consent before We collect and use that information.
 
+
+Cookies and Local Storage
+-------------------------
+
+The mobile and desktop applications do not use browser cookies for Our own
+purposes; they store preferences and a short-lived cache on Your device as
+described under "Data Stored Only on Your Device". Web views used for payment
+are opened in a private, non-persistent browsing session.
+
+Our website and the ads on it use cookies and similar technologies:
+
+  * Strictly necessary — to keep You signed in, remember Your location and
+    preferences, and secure the site. These cannot be switched off without
+    breaking the site.
+
+  * Advertising — set by Google AdSense and its partners to serve and measure
+    ads, including personalized ads where permitted. See "Advertising" for how
+    to opt out.
+
+  * Analytics — to understand aggregate usage of the site.
+
+You can block or delete cookies in Your browser settings, though the Service
+may not work correctly without the strictly necessary ones. Where required by
+law, We will ask for Your consent before setting non-essential cookies.
+
+
 Grievance Redressal
-*******************
-In accordance with the Information Technology Act and the DPDP Act, if you have any grievances, you may contact our Grievance Officer:
+-------------------
+
+In accordance with the Information Technology Act, 2000 (and the rules made
+under it, including the Information Technology (Intermediary Guidelines and
+Digital Media Ethics Code) Rules, 2021 and the Information Technology
+(Reasonable Security Practices and Procedures and Sensitive Personal Data or
+Information) Rules, 2011) and the Digital Personal Data Protection Act, 2023,
+if You have any grievance about the handling of Your personal data, You may
+contact Our Grievance Officer:
 
     Name: Vinay Singh Kharayat
+    Designation: Grievance Officer, SoarTech (ShopSwiftly)
+    Email: grievance@shop-swiftly.in
+    Telephone: [INSERT CUSTOMER-CARE / GRIEVANCE PHONE NUMBER]
+    Address: H. No. 126, SoarTech, Hanuman Mandir Road, Kumoar,
+             Pithoragarh, District Pithoragarh, Uttarakhand 262501, India
 
-    Email: developer@shop-swiftly.in
+We will acknowledge Your grievance within 24 hours of receipt and resolve it
+within 15 days, or such shorter period as the law requires. If You are not
+satisfied with the outcome, You may escalate to the Data Protection Board of
+India.
+
 
 Affiliate Links and Commissions
 -------------------------------
@@ -316,23 +980,25 @@ Privacy Policy.)
 When You open a product link in the Service, We may:
 
   * Route the click through Our own redirect service in order to record that a
-    product link was opened, which marketplace it pointed to, and the search
-    term that produced it. We use this to understand which comparisons are
-    useful and to improve Our results.
+    product link was opened, which Marketplace it pointed to, the search term
+    that produced it, and the IP address of the request. We use this to
+    understand which comparisons are useful, to build the trending-searches
+    and most-visited-store lists, to detect abuse, and to improve Our results.
 
   * Append an affiliate or store identifier to the destination URL — for
     example, Our Amazon Associates store id "shopswiftly02-21" — so that the
-    marketplace can attribute the visit, and any resulting purchase, to Us.
+    Marketplace can attribute the visit, and any resulting purchase, to Us.
 
-This identifier tells the marketplace that You arrived from ShopSwiftly. We do
+This identifier tells the Marketplace that You arrived from ShopSwiftly. We do
 not receive Your order details, payment information or the contents of Your
-cart from these marketplaces; We may receive aggregated reports showing the
+cart from these Marketplaces; We may receive aggregated reports showing the
 number of clicks, orders and commissions earned. Using an affiliate link never
 changes the price You pay.
 
 Once You leave the Service, the destination site's own privacy policy, cookie
 and advertising practices apply to Your visit — see "Links to Other Websites"
 below.
+
 
 Links to Other Websites
 -----------------------
@@ -343,9 +1009,13 @@ site. We strongly advise You to review the Privacy Policy of every site You
 visit.
 
 We have no control over and assume no responsibility for the content, privacy
-policies or practices of any third party sites or services.
+policies or practices of any third party sites or services. Product names,
+logos, trade marks and prices belong to their respective owners; We display
+publicly available listing information for comparison purposes and are not an
+agent of, or affiliated with, any Marketplace.
 
-Changes to this Privacy Policy  
+
+Changes to this Privacy Policy
 ------------------------------
 
 We may update Our Privacy Policy from time to time. We will notify You of any
@@ -353,16 +1023,18 @@ changes by posting the new Privacy Policy on this page.
 
 We will let You know via email and/or a prominent notice on Our Service, prior
 to the change becoming effective and update the "Last updated" date at the top
-of this Privacy Policy.
+of this Privacy Policy. Where a change requires it, We will ask for Your
+consent again.
 
 You are advised to review this Privacy Policy periodically for any changes.
 Changes to this Privacy Policy are effective when they are posted on this
 page.
 
-Contact Us  
+
+Contact Us
 ----------
 
 If you have any questions about this Privacy Policy, You can contact us:
 
   * By email: developer@shop-swiftly.in
-
+  * Grievance Officer: grievance@shop-swiftly.in (see "Grievance Redressal")
