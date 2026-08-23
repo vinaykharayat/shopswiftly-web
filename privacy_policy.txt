@@ -1,7 +1,7 @@
 Privacy Policy  
 ==============
 
-Last updated: March 19, 2026
+Last updated: August 23, 2026
 
 This Privacy Policy describes Our policies and procedures on the collection,
 use and disclosure of Your information when You use the Service and tells You
@@ -304,7 +304,37 @@ In accordance with the Information Technology Act and the DPDP Act, if you have 
 
     Email: developer@shop-swiftly.in
 
-Links to Other Websites  
+Affiliate Links and Commissions
+-------------------------------
+
+ShopSwiftly participates in third-party affiliate and referral programs,
+including the Amazon Associates Program. As an Amazon Associate, We earn from
+qualifying purchases. (In this section, "affiliate" refers to these marketing
+programs, and not to the defined term "Affiliate" used elsewhere in this
+Privacy Policy.)
+
+When You open a product link in the Service, We may:
+
+  * Route the click through Our own redirect service in order to record that a
+    product link was opened, which marketplace it pointed to, and the search
+    term that produced it. We use this to understand which comparisons are
+    useful and to improve Our results.
+
+  * Append an affiliate or store identifier to the destination URL — for
+    example, Our Amazon Associates store id "shopswiftly02-21" — so that the
+    marketplace can attribute the visit, and any resulting purchase, to Us.
+
+This identifier tells the marketplace that You arrived from ShopSwiftly. We do
+not receive Your order details, payment information or the contents of Your
+cart from these marketplaces; We may receive aggregated reports showing the
+number of clicks, orders and commissions earned. Using an affiliate link never
+changes the price You pay.
+
+Once You leave the Service, the destination site's own privacy policy, cookie
+and advertising practices apply to Your visit — see "Links to Other Websites"
+below.
+
+Links to Other Websites
 -----------------------
 
 Our Service may contain links to other websites that are not operated by Us.
